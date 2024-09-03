@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github code](https://github.com/cacesasa/newsletter-signup)
-- Live Site URL: [Live page URL - Github Pages](https://your-live-site-url.com)
+- Live Site URL: [Live page URL - Github Pages](https://cacesasa.github.io/newsletter-signup/)
 
 ## My process
 
